@@ -36,4 +36,7 @@ Survive as long as possible by dodging enemies and shooting them with fireballs.
 - **GUI**: Windows Forms
 - **Graphics**: System.Drawing for animations
 - **Audio**: System.Media.SoundPlayer
-- **File I/O**: JSON/Text files for save data
+## 📸 Screenshots
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/863f8dc8-3e87-4feb-a2be-1bff7bee8c7f" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/78885a06-eafd-410b-939b-8318d2794a54" />
+
